@@ -1,0 +1,119 @@
+/* Google Font Link */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+  
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  /* background: #0059FF; */
+}
+ 
+.container {
+  background: #EDF0F6;
+  background: linear-gradient(354deg, #23e6ed 0%, #56144f 100%);
+  /* padding: 30px 120px; */
+  width: 320px;
+  height: 600px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  border-radius: 10px;
+}
+ 
+.container_date
+{
+  color: rgb(100, 218, 179);
+  margin-top:76px;
+  opacity: 47%;
+  font-size: 22px;
+  font-weight: 300;
+}
+ 
+.container_city
+{
+  margin-top: 1rem;
+  font-size: 37px;
+  font-weight: 700;
+  color: rgb(28, 183, 210);
+  font-style: italic;
+ 
+}
+ 
+.container_degree{
+  font-size: 50px;
+  font-weight: 800;
+  color: white;
+  position: relative;
+  top: -20px;
+}
+ 
+.container_img
+{
+  position: relative;
+  top: -29px;
+}
+ 
+.degree_icon
+{
+  font-size: 20px;
+}
+ 
+.country_per
+{
+  position: relative;
+  top: -15px;
+  color: white;
+  font-size: 18px;
+}
+ 
+.input {
+  border: none;
+  padding: 1rem;
+  border-radius: 1px 4px 8px 15px;
+  background: #e8e8e8;
+  transition: 0.3s;
+  position: relative;
+  top: -2px;
+ }
+  
+ .input:focus {
+  outline-color: #f7ebeb;
+  background: #9229fc;
+  box-shadow: inset 20px 20px 60px #e8e8e8,
+     inset -20px -20px 60px #ffffff;
+  transition: 3s;
+  border-radius: 3px 0px 0;
+ }
+ 
+ /* button */
+ 
+ button 
+  {
+    color: #090909;
+    padding: 0.7em 0.7em;
+    font-size: 1.2rem;
+  
+    cursor: pointer;
+    border: 1px solid #edeaea;
+    transition: all 0.4s;
+    background-color: #d1d1d3;
+    border-radius: 10px;
+}
+ 
+button:active {
+  color:white;
+  box-shadow: inset 4px 4px 12px #c5c5c5, inset -4px -4px 12px #ffffff;
+}
+button:hover{
+  outline-color: #f7ebeb;
+  background: #ad72e7;
+  transition: 3s;
+
+}
+.form
+{
+  margin-top: 3rem;
+}
