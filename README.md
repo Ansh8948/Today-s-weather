@@ -1,3 +1,72 @@
+# Today's weather
+
+
+ # project overview
+ What is weather?
+
+"Weather is the state of the atmosphere, including temperature, atmospheric pressure, wind, humidity, precipitation, and cloud cover"
+
+
+### AUTHORS
+  **Training project (Batch-3)**
+
+  # Anshu Bhatt
+  Roll No. 22015002475
+
+## Technology Stack
+
+- **Frontend:**
+  - React
+  - javascript
+  - CSS 
+  
+-**Backend:**
+mongodb
+express
+NODE.JS
+
+
+
+
+
+
+ ## Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- Node.js
+- npm
+- MongoDB
+- express.js
+
+# API 
+(API-KEY)
+
+
+## USE THE API KEY 
+and this api key is copied from the open weather package
+
+
+
+
+## RUNNING THE APPLICATION
+
+IF ALREADY EXISTS
+ # THEN ==> npm start
+   
+ othervise type the command cd then folder name and enter then npm start
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
